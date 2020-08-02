@@ -1,0 +1,39 @@
+﻿.professor {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url("../_images/bg.jpg");
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+.professor h2 {
+    font-size: 38px;
+
+}
+
+.professor h2:hover {
+    font-size: 40px;
+    font-style: normal;
+    color: antiquewhite;
+
+}
+
+.professor p {
+    font-size: 26px;
+}
+
+.professor a {
+    text-decoration: none;
+    color: yellow;
+}
+
+.professor a:hover {
+    text-decoration: underline;
+    color: yellowgreen;
+    font-size: 30px;
+}
